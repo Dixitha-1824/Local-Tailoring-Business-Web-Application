@@ -1,4 +1,4 @@
-# Sri Dikshitha – Tailoring Management Web Application
+# Local Tailoring Business Web Application
 
 This is a full-stack tailoring shop website built using Node.js, Express, and MongoDB.
 
